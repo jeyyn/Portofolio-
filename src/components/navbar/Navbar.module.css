@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #3e2b36; /* Sesuaikan warna background */
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navLinks {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+  }
+  
+  .navItem {
+    font-size: 18px;
+  }
+  
+  .navItem a {
+    color: #b7b5b5; /* Warna teks */
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  .navItem a:hover {
+    color: #ffffff; /* Warna teks saat hover */
+  }
+  

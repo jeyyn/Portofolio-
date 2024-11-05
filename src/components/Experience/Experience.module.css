@@ -1,0 +1,135 @@
+.icon {
+    position: absolute;
+    top: -254px;
+    left: -330px;
+    width: 2100.9px;
+    height: 1451.2px;
+    object-fit: contain;
+}
+
+.home {
+    position: absolute;
+    top: 13px;
+    left: 53px;
+    color: #8b8a8a;
+    display: inline-block;
+    width: 73px;
+    height: 47px;
+}
+.skills {
+    position: absolute;
+    top: 13px;
+    left: 195px;
+    color: #7c787a;
+    display: inline-block;
+    width: 73px;
+    height: 47px;
+}
+.experience1 {
+    position: absolute;
+    top: 13px;
+    left: 341px;
+    display: inline-block;
+    width: 146px;
+    height: 47px;
+}
+.contact {
+    position: absolute;
+    top: 13px;
+    left: 536px;
+    color: #8b8a8a;
+    display: inline-block;
+    width: 137px;
+    height: 47px;
+}
+.experienceItem {
+    position: absolute;
+    top: 236px;
+    left: 48px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #221823;
+    width: 633px;
+    height: 738px;
+}
+.experienceInner {
+    position: absolute;
+    top: 236px;
+    left: 759px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #221823;
+    width: 632px;
+    height: 738px;
+}
+.desainTanpaJudul61 {
+    position: absolute;
+    top: 84px;
+    left: 355px;
+    width: 730px;
+    height: 127px;
+    object-fit: cover;
+}
+.image13Icon {
+    position: absolute;
+    top: 398px;
+    left: 115px;
+    width: 500px;
+    height: 268.8px;
+    object-fit: cover;
+}
+.image15Icon {
+    position: absolute;
+    top: 667px;
+    left: 115px;
+    width: 500px;
+    height: 268.6px;
+    object-fit: cover;
+}
+.image16Icon {
+    position: absolute;
+    top: 398px;
+    left: 826px;
+    width: 517px;
+    height: 271px;
+    object-fit: cover;
+}
+.image17Icon {
+    position: absolute;
+    top: 669px;
+    left: 826px;
+    width: 517px;
+    height: 271px;
+    object-fit: cover;
+}
+.designingAnEducational {
+    margin: 0;
+}
+.designingAnEducationalContainer {
+    position: absolute;
+    top: 258px;
+    left: 96px;
+    text-align: center;
+    display: inline-block;
+    width: 537px;
+}
+.designingACertifiedContainer {
+    position: absolute;
+    top: 258px;
+    left: 827px;
+    text-align: center;
+    display: inline-block;
+    width: 516px;
+}
+.experience {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(179.02deg, #50333d, #181e41);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Crimson Text';
+}
+

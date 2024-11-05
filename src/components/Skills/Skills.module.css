@@ -1,0 +1,175 @@
+.bg2-icon {
+    position: absolute;
+    top: -254px;
+    left: -330px;
+    right:-330px;
+    width: 2100.9px;
+    height: 1451.2px;
+    object-fit: cover;
+}
+.skills-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(30, 30, 30, 0.37);
+    width: 1440px;
+    height: 64px;
+}
+.skills-item {
+    position: absolute;
+    top: 105px;
+    left: 48px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color:#221823;
+    width: 633px;
+    height: 367px;
+}
+.skills-inner {
+    position: absolute;
+    top: 606px;
+    left: 48px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #221823;
+    width: 633px;
+    height: 367px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 606px;
+    left: 758px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #221823;
+    width: 633px;
+    height: 367px;
+}
+.skills-child1 {
+    position: absolute;
+    top: 104px;
+    left: 759px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-color: #221823;
+    width: 632px;
+    height: 368px;
+}
+.image1-icon {
+    position: absolute;
+    top: 214px; 
+    left: 77px;
+    width: 100px;
+    height: 99px;
+    object-fit: cover;
+}
+.figma {
+    position: absolute;
+    top: 319px;
+    left: 83px;
+    font-size: 35px;
+    text-align: center;
+}
+.css {
+    position: absolute;
+    top: 818px;
+    left: 99px;
+    font-size: 35px;
+    text-align: center;
+}
+.html {
+    position: absolute;
+    top: 310px;
+    left: 806px;
+    font-size: 35px;
+    text-align: center;
+}
+.c {
+    position: absolute;
+    top: 820px;
+    left: 810px;
+    font-size: 35px;
+    text-align: center;
+}
+.image4-icon {
+    position: absolute;
+    top: 220px;
+    left: 805px;
+    width: 100px;
+    height: 86px;
+    object-fit: cover;
+}
+.image5-icon {
+    position: absolute;
+    top: 727px;
+    left: 90px;
+    width: 73px;
+    height: 85px;
+    object-fit: cover;
+}
+.image6-icon {
+    position: absolute;
+    top: 731px;
+    left: 807px;
+    width: 70px;
+    height: 83px;
+    object-fit: cover;
+}
+.desain-tanpa-judul41 {
+    position: absolute;
+    top: 487px;
+    left: 598px;
+    width: 243px;
+    height: 104px;
+    object-fit: cover;
+}
+.visual-design-composition-container {
+    position: absolute;
+    top: 154px;
+    left: 195px;
+}
+.visual-design-composition-co {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 40px;
+}
+.visual-design-composition {
+    font-size: 1.3rem;
+    line-height: 1.6; 
+    text-align: left; 
+    margin-bottom: 0.1rem;
+    padding-top: 18px;
+}
+.understanding-of-html-container {
+    position: absolute;
+    top: 189px;
+    left: 925px;
+    display: inline-block;
+    width: 400px;
+}
+.styling-expertise-container {
+    position: absolute;
+    top: 641px;
+    left: 195px;
+    display: inline-block;
+    width: 434px;
+}
+.cross-platform-development-container {
+    position: absolute;
+    top: 696px;
+    left: 905px;
+    display: inline-block;
+    width: 434px;
+}
+.skills {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(179.02deg, #50333d, #181e41);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Crimson Text';
+}

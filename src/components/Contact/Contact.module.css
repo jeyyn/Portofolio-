@@ -1,0 +1,118 @@
+.bg4Icon {
+    position: absolute;
+    top: -166px;
+    left: -322px;
+    width: 2039.3px;
+    height: 1502.7px;
+    object-fit: contain;
+    opacity: 0.5;
+}
+
+.home {
+    position: absolute;
+    top: 13px;
+    left: 53px;
+    color: #8b8a8a;
+    display: inline-block;
+    width: 73px;
+    height: 47px;
+}
+.skills {
+    position: absolute;
+    top: 13px;
+    left: 195px;
+    color: #8b8a8a;
+    display: inline-block;
+    width: 73px;
+    height: 47px;
+}
+.experience {
+    position: absolute;
+    top: 13px;
+    left: 341px;
+    color: #8b8a8a;
+    display: inline-block;
+    width: 146px;
+    height: 47px;
+}
+.contact1 {
+    position: absolute;
+    top: 13px;
+    left: 536px;
+    display: inline-block;
+    width: 137px;
+    height: 47px;
+}
+.contactIcon {
+    position: absolute;
+    top: 746px;
+    left: 198px;
+    width: 415px;
+    height: 84px;
+    object-fit: cover;
+}
+.profileIcon {
+    position: absolute;
+    top: 741px;
+    left: 0px;
+    width: 198px;
+    height: 283px;
+    object-fit: cover;
+}
+.letsHireMe {
+    font-family: 'Crimson Text';
+}
+.letsHireMeIveDesignedS {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.letsHireMeIveContainer {
+    position: absolute;
+    top: 104px;
+    left: 102px;
+    font-size: 28px;
+    text-align: center;
+    display: inline-block;
+    width: 1227px;
+    height: 557px;
+}
+.emailQxjejengmailcom {
+    position: absolute;
+    top: 839px;
+    left: 243px;
+    font-size: 28px;
+}
+.instagramJenniewagneroux {
+    position: absolute;
+    top: 891px;
+    left: 243px;
+    font-size: 28px;
+}
+.maskGroupIcon {
+    position: absolute;
+    top: 887px;
+    left: 198px;
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+.maskGroupIcon1 {
+    position: absolute;
+    top: 835px;
+    left: 198px;
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+.contact {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(179.02deg, #50333d, #181e41);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Crimson Text';
+}
+
